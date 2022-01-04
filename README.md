@@ -4,11 +4,7 @@ Turns csv exported from TikTok Ads Manager into a formatted Google sheet for cli
 
 Must be run in directory with credential JSON file for Google API.
 
-Command line instructions:
-python3 TTDeckMaker.py a b c
-  a: Name of brand
-  b: Type of brand either "app" or "nonapp"
-  c: Desired percent cut taken represented as a integer
+Takes 3 command line arguments. (1. Name of brand, 2. Type either "app" or "nonapp", 3. Desired percent cut as a integer)
   
 Google sheets implementation follows this tutorial:
 https://www.youtube.com/watch?v=cnPlKLEGR7E
