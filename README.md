@@ -10,7 +10,7 @@ python3 TTDeckMaker.py a b c
   b: Type of brand either "app" or "nonapp"
   c: Desired percent cut taken represented as a integer
   
-Google implementation follows this tutorial:
+Google sheets implementation follows this tutorial:
 https://www.youtube.com/watch?v=cnPlKLEGR7E
 
 For use by Creatorly / Mammoth Media Inc.
